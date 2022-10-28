@@ -1,7 +1,7 @@
 /*Caroline Hana
 10-27-2022
 Restaurant picker - will pick a random restaurant for u
-Peer review -Nicolas Acosta The code works fine I choose all fastfood, deseert and the resaurant they all work out.The code look nice on the eyes easy to read Great job.
+Peer review - Nicolas Acosta The code works fine I choose all fastfood, deseert and the resaurant they all work out.The code look nice on the eyes easy to read Great job.
 */
 
 
